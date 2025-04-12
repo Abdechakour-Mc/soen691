@@ -1,0 +1,11 @@
+# Ignore specific log directory
+RQ1/Data Collection/logs/
+
+# Ignore all files ending in logs.txt anywhere in the repo
+*logs.txt
+
+# Ignore the following report and chart directories
+owasp_reports/
+loc_reports/
+snyk_reports/
+charts/

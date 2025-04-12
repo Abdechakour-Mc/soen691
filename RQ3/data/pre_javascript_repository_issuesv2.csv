@@ -1,0 +1,201 @@
+,projectName,Repository,Total Issues,Date Range,Runtime Errors %,Performance Issues %,Async Programming %,State Management %,Browser Compatibility %,Security Vulnerabilities %,Dependency Management %,Framework-Specific %,Network & API %,Configuration & Build %,Top Categories
+0,21ca.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+1,6r1d.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+2,aggregation-repository-provider,aggregation-repository-provider,1162.0,issues created before 2021-01-01,5.25,1.45,0.52,0.34,13.57,0.59,52.48,0.1,13.57,12.13,"Dependency Management, Browser Compatibility, Network & API"
+3,AHIA,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+4,alfaromontufar.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+5,altcoin-charter,altcoin-charter,3.0,issues created before 2021-01-01,9.52,0.0,0.0,0.0,9.52,9.52,47.62,0.0,19.05,4.76,"Dependency Management, Network & API, Runtime Errors"
+6,angular-devkit-core-builds,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+7,angular-devkit-schematics-cli-builds,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+8,api_automation_test,api_automation_test,83.0,issues created before 2021-01-01,1.66,1.1,1.1,3.31,8.84,7.73,20.44,3.31,43.65,8.84,"Network & API, Dependency Management, Browser Compatibility"
+9,asl-public-api,asl-public-api,309.0,issues created before 2021-01-01,2.19,1.09,2.19,2.92,22.63,3.28,21.53,0.73,35.4,8.03,"Network & API, Browser Compatibility, Dependency Management"
+10,asl-service,asl-service,214.0,issues created before 2021-01-01,3.75,1.25,0.83,7.08,19.58,4.58,15.42,7.92,19.17,20.42,"Configuration & Build, Browser Compatibility, Network & API"
+11,BatGenV2,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+12,Battle-City,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+13,battle-pong,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+14,beeline-nodejs,beeline-nodejs,271.0,issues created before 2021-01-01,3.03,0.61,14.81,9.34,12.01,2.31,16.75,1.09,32.28,7.77,"Network & API, Dependency Management, Async Programming"
+15,bio,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+16,Blocks-N-Head,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+17,blocks-script,blocks-script,10.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,14.29,0.0,28.57,0.0,57.14,0.0,"Network & API, Dependency Management, Browser Compatibility"
+18,bootcamp-manager,bootcamp-manager,8.0,issues created before 2021-01-01,1.04,1.04,3.12,3.12,9.38,9.38,41.67,0.0,19.79,11.46,"Dependency Management, Network & API, Configuration & Build"
+19,bugsnag-build-reporter-node,bugsnag-build-reporter-node,11.0,issues created before 2021-01-01,3.85,0.0,0.0,0.0,11.54,0.0,26.92,3.85,34.62,19.23,"Network & API, Dependency Management, Configuration & Build"
+20,bundler,bundler,245.0,issues created before 2021-01-01,2.77,1.95,1.95,4.58,9.34,8.66,40.06,0.0,24.26,6.43,"Dependency Management, Network & API, Browser Compatibility"
+21,calculator,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+22,calendar_weekly,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+23,canboatjs,canboatjs,145.0,issues created before 2021-01-01,2.9,1.45,1.45,2.9,34.78,1.45,30.43,0.0,18.84,5.8,"Browser Compatibility, Dependency Management, Network & API"
+24,ccd97.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+25,cfn-execute-change-set,cfn-execute-change-set,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,9.52,9.52,47.62,0.0,19.05,14.29,"Dependency Management, Network & API, Configuration & Build"
+26,cfn-schema,cfn-schema,194.0,issues created before 2021-01-01,2.32,2.19,2.83,0.77,12.23,1.03,34.49,3.22,17.5,23.42,"Dependency Management, Configuration & Build, Network & API"
+27,ChangWinde.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+28,client,client,165.0,issues created before 2021-01-01,2.64,5.29,1.32,8.37,29.07,0.88,4.41,1.76,41.41,4.85,"Network & API, Browser Compatibility, State Management"
+29,CommandQueue,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+30,Connective-Lex.info,Connective-Lex.info,3.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,"Browser Compatibility, Runtime Errors, Performance Issues"
+31,Dabih,Dabih,6.0,issues created before 2021-01-01,3.17,0.0,4.76,1.59,9.52,7.94,39.68,0.0,20.63,12.7,"Dependency Management, Network & API, Configuration & Build"
+32,dan-mba.github.io,dan-mba.github.io,37.0,issues created before 2021-01-01,0.0,1.12,0.37,2.25,10.49,8.99,42.32,6.37,17.23,10.86,"Dependency Management, Network & API, Configuration & Build"
+33,dashboard,dashboard,928.0,issues created before 2021-01-01,0.29,1.24,0.91,3.78,35.18,2.3,11.78,4.55,28.48,11.49,"Browser Compatibility, Network & API, Dependency Management"
+34,data-sources-parser,data-sources-parser,8.0,issues created before 2021-01-01,0.0,5.56,0.0,0.0,33.33,0.0,5.56,16.67,22.22,16.67,"Browser Compatibility, Network & API, Framework-Specific"
+35,dd-trace-js,dd-trace-js,1174.0,issues created before 2021-01-01,2.94,2.77,6.89,4.05,20.66,1.67,16.08,1.04,34.27,9.63,"Network & API, Browser Compatibility, Dependency Management"
+36,denmarkg.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+37,DevAV,DevAV,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,14.29,28.57,14.29,0.0,28.57,14.29,"Security Vulnerabilities, Network & API, Browser Compatibility"
+38,DhananjayGupta300.github.io,DhananjayGupta300.github.io,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,11.11,11.11,44.44,0.0,22.22,11.11,"Dependency Management, Network & API, Browser Compatibility"
+39,dhjz.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+40,dicomviewer,dicomviewer,77.0,issues created before 2021-01-01,1.76,1.76,0.0,2.94,45.29,2.94,20.0,0.0,17.06,8.24,"Browser Compatibility, Dependency Management, Network & API"
+41,discord-encryption,discord-encryption,8.0,issues created before 2021-01-01,0.0,0.0,0.0,7.69,38.46,15.38,0.0,0.0,38.46,0.0,"Browser Compatibility, Network & API, Security Vulnerabilities"
+42,django-auth0-vue,django-auth0-vue,2.0,issues created before 2021-01-01,0.0,0.0,25.0,0.0,0.0,0.0,0.0,25.0,25.0,25.0,"Async Programming, Framework-Specific, Network & API"
+43,django-globus-portal-framework,django-globus-portal-framework,133.0,issues created before 2021-01-01,0.71,3.2,0.0,2.49,26.33,0.71,9.61,14.95,31.32,10.68,"Network & API, Browser Compatibility, Framework-Specific"
+44,duchuydo.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+45,electerm-locales,electerm-locales,14.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,"Network & API, Runtime Errors, Performance Issues"
+46,ember-bootstrap-modals-manager,ember-bootstrap-modals-manager,30.0,issues created before 2021-01-01,0.86,0.0,0.86,0.0,12.07,7.76,43.1,3.45,22.41,9.48,"Dependency Management, Network & API, Browser Compatibility"
+47,ember-mobile-menu,ember-mobile-menu,111.0,issues created before 2021-01-01,2.19,1.46,0.0,0.73,26.28,4.38,30.66,5.11,16.06,13.14,"Dependency Management, Browser Compatibility, Network & API"
+48,ember-mobile-pane,ember-mobile-pane,24.0,issues created before 2021-01-01,0.85,1.69,0.85,0.0,10.17,10.17,42.37,2.54,19.49,11.86,"Dependency Management, Network & API, Configuration & Build"
+49,emporniumuserscripts,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+50,eth-crypto,eth-crypto,353.0,issues created before 2021-01-01,0.75,0.56,2.32,1.35,14.54,0.97,45.46,0.34,15.63,18.09,"Dependency Management, Configuration & Build, Network & API"
+51,ev-church-website,ev-church-website,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,"Network & API, Runtime Errors, Performance Issues"
+52,explorer,explorer,533.0,issues created before 2021-01-01,1.38,2.07,0.34,4.37,26.55,1.49,8.62,7.93,44.6,2.64,"Network & API, Browser Compatibility, Dependency Management"
+53,fastify-citgm,fastify-citgm,3.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,18.18,0.0,45.45,36.36,"Network & API, Configuration & Build, Dependency Management"
+54,fdk-node,fdk-node,35.0,issues created before 2021-01-01,1.25,0.0,5.0,6.25,13.75,5.0,23.75,0.0,37.5,7.5,"Network & API, Dependency Management, Browser Compatibility"
+55,find-this-value,find-this-value,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,"Dependency Management, Runtime Errors, Performance Issues"
+56,firefox-extensions,firefox-extensions,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,"Network & API, Runtime Errors, Performance Issues"
+57,flespi-io-js,flespi-io-js,8.0,issues created before 2021-01-01,1.19,0.0,0.0,0.0,10.71,10.71,47.62,0.0,19.05,10.71,"Dependency Management, Network & API, Browser Compatibility"
+58,fluid,fluid,393.0,issues created before 2021-01-01,4.71,6.93,0.55,16.07,33.24,0.55,17.17,3.05,8.03,9.7,"Browser Compatibility, Dependency Management, State Management"
+59,forte-table,forte-table,25.0,issues created before 2021-01-01,0.0,0.0,0.0,5.56,22.22,0.0,22.22,16.67,11.11,22.22,"Browser Compatibility, Dependency Management, Configuration & Build"
+60,fosskers.ca,fosskers.ca,37.0,issues created before 2021-01-01,0.0,6.0,1.0,1.0,13.0,0.0,38.0,0.0,30.0,11.0,"Dependency Management, Network & API, Browser Compatibility"
+61,fredy,fredy,13.0,issues created before 2021-01-01,1.75,1.75,0.0,0.0,10.53,8.77,43.86,0.0,21.05,12.28,"Dependency Management, Network & API, Configuration & Build"
+62,frontend,frontend,53.0,issues created before 2021-01-01,1.04,2.08,0.0,1.04,8.59,8.85,42.71,0.78,19.53,15.36,"Dependency Management, Network & API, Configuration & Build"
+63,fsttheme,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+64,functional-data-grid,functional-data-grid,47.0,issues created before 2021-01-01,1.11,8.33,0.56,2.78,9.44,0.0,36.67,5.56,26.67,8.89,"Dependency Management, Network & API, Browser Compatibility"
+65,gauravagarwalr.com,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+66,gomoku,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+67,graphql-dotnet.github.io,graphql-dotnet.github.io,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,"Network & API, Runtime Errors, Performance Issues"
+68,group-sms,group-sms,7.0,issues created before 2021-01-01,1.79,1.79,0.0,0.0,8.93,8.93,46.43,0.0,19.64,12.5,"Dependency Management, Network & API, Configuration & Build"
+69,grunt-simple-nyc,grunt-simple-nyc,10.0,issues created before 2021-01-01,1.52,0.0,1.52,0.0,10.61,10.61,42.42,0.0,18.18,15.15,"Dependency Management, Network & API, Configuration & Build"
+70,hapi-pg-rest-api,hapi-pg-rest-api,139.0,issues created before 2021-01-01,1.81,0.68,2.79,1.13,9.36,10.34,40.75,0.08,25.74,7.32,"Dependency Management, Network & API, Security Vulnerabilities"
+71,hegyhati.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+72,HeliosLauncher,HeliosLauncher,131.0,issues created before 2021-01-01,3.64,0.81,2.02,4.05,15.38,3.64,25.91,1.21,27.13,16.19,"Network & API, Dependency Management, Configuration & Build"
+73,hello-world,hello-world,7.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+74,hexChess,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+75,highcharts-utils,highcharts-utils,33.0,issues created before 2021-01-01,1.96,0.0,6.86,0.98,14.71,4.9,41.18,0.0,18.63,10.78,"Dependency Management, Network & API, Browser Compatibility"
+76,homebrew,homebrew,731.0,issues created before 2021-01-01,1.38,1.38,0.92,1.84,40.09,0.0,20.28,0.92,30.88,2.3,"Browser Compatibility, Network & API, Dependency Management"
+77,hopperrr.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+78,hosea,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+79,hosted-fields-sdk,hosted-fields-sdk,12.0,issues created before 2021-01-01,2.17,2.17,0.0,0.0,21.74,8.7,32.61,0.0,19.57,13.04,"Dependency Management, Browser Compatibility, Network & API"
+80,hotballoon,hotballoon,34.0,issues created before 2021-01-01,0.0,3.33,0.0,40.0,30.0,0.0,0.0,10.0,3.33,13.33,"State Management, Browser Compatibility, Configuration & Build"
+81,html_to_md,html_to_md,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,9.09,9.09,45.45,0.0,18.18,18.18,"Dependency Management, Network & API, Configuration & Build"
+82,Huebot,Huebot,2.0,issues created before 2021-01-01,6.67,0.0,0.0,0.0,13.33,6.67,33.33,6.67,26.67,6.67,"Dependency Management, Network & API, Browser Compatibility"
+83,id-auth,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+84,idsia-robotics.github.io,idsia-robotics.github.io,3.0,issues created before 2021-01-01,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Performance Issues, Runtime Errors, Async Programming"
+85,jamestim9215.github.io,jamestim9215.github.io,3.0,issues created before 2021-01-01,2.94,0.0,0.0,2.94,8.82,8.82,44.12,0.0,20.59,11.76,"Dependency Management, Network & API, Configuration & Build"
+86,JavaScriptGrunnkurs,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+87,jquery-ui,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+88,jquery.autoSizes,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+89,jvorob.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+90,JZZ-input-Kbd,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+91,karma-child-process,karma-child-process,3.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,17.65,5.88,47.06,5.88,17.65,5.88,"Dependency Management, Browser Compatibility, Network & API"
+92,kis-jsdoc-plugin,kis-jsdoc-plugin,5.0,issues created before 2021-01-01,1.69,0.0,0.0,0.0,11.86,8.47,42.37,1.69,16.95,16.95,"Dependency Management, Network & API, Configuration & Build"
+93,koha-plugin-cloudlibrary,koha-plugin-cloudlibrary,14.0,issues created before 2021-01-01,4.08,2.04,0.0,0.0,10.2,8.16,42.86,0.0,20.41,12.24,"Dependency Management, Network & API, Configuration & Build"
+94,laravel-mail-viewer,laravel-mail-viewer,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,9.09,9.09,45.45,0.0,27.27,9.09,"Dependency Management, Network & API, Browser Compatibility"
+95,larvitbase-www,larvitbase-www,53.0,issues created before 2021-01-01,0.7,0.93,4.2,0.93,13.52,2.1,44.29,0.47,17.25,15.62,"Dependency Management, Network & API, Configuration & Build"
+96,launch-editor,launch-editor,25.0,issues created before 2021-01-01,3.42,0.0,1.37,2.05,10.27,6.85,34.25,5.48,19.86,16.44,"Dependency Management, Network & API, Configuration & Build"
+97,learn-web,learn-web,52.0,issues created before 2021-01-01,2.43,0.32,0.97,4.85,8.25,9.22,39.0,7.44,16.34,11.17,"Dependency Management, Network & API, Configuration & Build"
+98,LearningSystem,LearningSystem,8.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,50.0,0.0,"Dependency Management, Network & API, Runtime Errors"
+99,lkft-website,lkft-website,285.0,issues created before 2021-01-01,1.23,0.0,0.0,1.23,22.22,2.47,12.35,2.47,27.16,30.86,"Configuration & Build, Network & API, Browser Compatibility"
+100,login.dfe.audit.winston-sequelize-transport,login.dfe.audit.winston-sequelize-transport,22.0,issues created before 2021-01-01,2.44,0.0,0.0,0.0,12.2,9.76,46.34,0.0,14.63,14.63,"Dependency Management, Network & API, Configuration & Build"
+101,login.dfe.saml-assertions,login.dfe.saml-assertions,88.0,issues created before 2021-01-01,0.0,0.0,1.23,0.0,14.72,7.98,39.88,0.61,21.47,14.11,"Dependency Management, Network & API, Browser Compatibility"
+102,login.dfe.support,login.dfe.support,315.0,issues created before 2021-01-01,3.9,0.65,4.55,4.55,18.83,5.19,23.38,1.95,27.27,9.74,"Network & API, Dependency Management, Browser Compatibility"
+103,main,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+104,manage-key-workers,manage-key-workers,519.0,issues created before 2021-01-01,1.57,2.35,2.35,7.05,19.32,6.27,16.71,10.44,21.67,12.27,"Network & API, Browser Compatibility, Dependency Management"
+105,maproulette3,maproulette3,1478.0,issues created before 2021-01-01,1.07,2.07,0.57,5.85,38.84,1.19,6.41,4.84,30.36,8.8,"Browser Compatibility, Network & API, Configuration & Build"
+106,materialdesignweb,materialdesignweb,15.0,issues created before 2021-01-01,1.72,0.0,0.0,1.72,20.69,8.62,34.48,0.0,25.86,6.9,"Dependency Management, Network & API, Browser Compatibility"
+107,mathemat-lab,mathemat-lab,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+108,maybe2020.github.io,maybe2020.github.io,5.0,issues created before 2021-01-01,0.0,0.0,1.72,1.72,8.62,15.52,41.38,0.0,17.24,13.79,"Dependency Management, Network & API, Security Vulnerabilities"
+109,mb-portfolio,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+110,Minesweeper-React,Minesweeper-React,8.0,issues created before 2021-01-01,1.02,0.0,2.04,0.0,8.16,9.18,40.82,8.16,18.37,12.24,"Dependency Management, Network & API, Configuration & Build"
+111,mini_startpage,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+112,miroshkin.github.io,miroshkin.github.io,13.0,issues created before 2021-01-01,2.0,1.33,0.0,1.33,10.67,10.67,44.0,0.67,18.67,10.67,"Dependency Management, Network & API, Browser Compatibility"
+113,moodle-tool_opencast,moodle-tool_opencast,28.0,issues created before 2021-01-01,0.0,0.0,0.0,3.92,11.76,7.84,19.61,0.0,45.1,11.76,"Network & API, Dependency Management, Browser Compatibility"
+114,MPMBs,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+115,msdos-editor,msdos-editor,6.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,75.0,0.0,"Network & API, Browser Compatibility, Runtime Errors"
+116,Nashira,Nashira,5.0,issues created before 2021-01-01,4.0,0.0,6.0,2.0,8.0,8.0,40.0,0.0,20.0,12.0,"Dependency Management, Network & API, Configuration & Build"
+117,nebrasketball,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+118,nikuman,nikuman,434.0,issues created before 2021-01-01,1.39,1.04,2.09,3.92,12.45,0.9,40.59,5.48,16.94,15.2,"Dependency Management, Network & API, Configuration & Build"
+119,node-edfsm,node-edfsm,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,10.0,10.0,50.0,0.0,20.0,10.0,"Dependency Management, Network & API, Browser Compatibility"
+120,node-mqttsngw-mqttbroker,node-mqttsngw-mqttbroker,3.0,issues created before 2021-01-01,0.0,0.0,11.11,11.11,33.33,0.0,0.0,0.0,44.44,0.0,"Network & API, Browser Compatibility, Async Programming"
+121,node-red-contrib-evohome,node-red-contrib-evohome,11.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,20.0,8.0,40.0,0.0,16.0,16.0,"Dependency Management, Browser Compatibility, Network & API"
+122,nodekb,nodekb,2.0,issues created before 2021-01-01,7.14,0.0,10.71,3.57,7.14,7.14,35.71,0.0,17.86,10.71,"Dependency Management, Network & API, Async Programming"
+123,nono-sam,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+124,nosso_amigo_secreto,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+125,notifications-slack,notifications-slack,39.0,issues created before 2021-01-01,0.88,0.0,0.0,13.16,14.04,0.88,17.54,0.0,42.11,11.4,"Network & API, Dependency Management, Browser Compatibility"
+126,oasis.cbd.int,oasis.cbd.int,44.0,issues created before 2021-01-01,2.44,0.0,2.44,3.66,7.32,8.54,35.37,9.76,20.73,9.76,"Dependency Management, Network & API, Framework-Specific"
+127,OldTimeHockey,OldTimeHockey,75.0,issues created before 2021-01-01,0.0,4.17,0.0,25.0,31.25,0.0,6.25,4.17,27.08,2.08,"Browser Compatibility, Network & API, State Management"
+128,orgajs,orgajs,76.0,issues created before 2021-01-01,4.32,4.94,0.0,4.32,19.14,1.23,25.31,2.47,28.4,9.88,"Network & API, Dependency Management, Browser Compatibility"
+129,Otee,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+130,passing-notes,passing-notes,23.0,issues created before 2021-01-01,1.12,2.23,0.0,0.56,11.73,10.61,42.46,0.0,21.79,9.5,"Dependency Management, Network & API, Browser Compatibility"
+131,passport,passport,11.0,issues created before 2021-01-01,0.0,0.0,6.67,0.0,20.0,6.67,26.67,6.67,26.67,6.67,"Dependency Management, Network & API, Browser Compatibility"
+132,personal_website,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+133,Pool,Pool,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+134,portal,portal,813.0,issues created before 2021-01-01,2.29,0.31,1.25,7.39,23.73,3.43,14.15,3.43,38.29,5.72,"Network & API, Browser Compatibility, Dependency Management"
+135,portfolio,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+136,prepply,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+137,prerender-alpine,prerender-alpine,7.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,36.36,0.0,27.27,9.09,27.27,0.0,"Browser Compatibility, Dependency Management, Network & API"
+138,puerto-rico-scoresheet,puerto-rico-scoresheet,7.0,issues created before 2021-01-01,1.27,0.0,0.0,0.0,8.86,10.13,44.3,0.0,20.25,15.19,"Dependency Management, Network & API, Configuration & Build"
+139,quanthub,quanthub,97.0,issues created before 2021-01-01,1.91,0.48,0.96,5.26,16.27,6.7,36.36,2.39,15.31,14.35,"Dependency Management, Browser Compatibility, Network & API"
+140,random-word-wikipedia,random-word-wikipedia,4.0,issues created before 2021-01-01,3.12,1.56,9.38,7.81,15.62,0.0,23.44,3.12,15.62,20.31,"Dependency Management, Configuration & Build, Browser Compatibility"
+141,RCGame.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+142,react-badly,react-badly,57.0,issues created before 2021-01-01,3.72,1.33,3.59,4.12,7.84,7.3,37.32,2.92,18.19,13.68,"Dependency Management, Network & API, Configuration & Build"
+143,react-file-icon,react-file-icon,19.0,issues created before 2021-01-01,0.0,0.0,0.0,3.03,24.24,3.03,24.24,21.21,18.18,6.06,"Browser Compatibility, Dependency Management, Framework-Specific"
+144,react_playground,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+145,remote,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+146,reneghosh.github.io,reneghosh.github.io,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+147,rifat-hossain.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+148,robinaone.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+149,romanesco-theme,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+150,safe-to-swim,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+151,SampleAPIs,SampleAPIs,108.0,issues created before 2021-01-01,0.0,2.25,0.0,3.37,17.98,2.25,17.98,0.0,50.56,5.62,"Network & API, Browser Compatibility, Dependency Management"
+152,schematics-angular-builds,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+153,ShayanPersonal.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+154,shruti3101.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+155,simple-server,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+156,site-settings-seo,site-settings-seo,12.0,issues created before 2021-01-01,0.0,4.76,0.0,0.0,9.52,15.87,33.33,0.0,26.98,9.52,"Dependency Management, Network & API, Security Vulnerabilities"
+157,sm-crypto,sm-crypto,36.0,issues created before 2021-01-01,15.38,0.0,0.0,11.54,19.23,0.0,7.69,11.54,15.38,19.23,"Browser Compatibility, Configuration & Build, Runtime Errors"
+158,smerge,smerge,90.0,issues created before 2021-01-01,0.0,0.0,0.0,2.1,16.08,9.79,41.96,0.0,19.58,10.49,"Dependency Management, Network & API, Browser Compatibility"
+159,snowflake-connector-nodejs,snowflake-connector-nodejs,139.0,issues created before 2021-01-01,1.18,0.79,9.06,5.12,12.6,3.54,24.02,3.94,29.53,10.24,"Network & API, Dependency Management, Browser Compatibility"
+160,snowstorm,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+161,SoftUniPractice,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+162,sonnen-dashboard,sonnen-dashboard,2.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+163,soundTest,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+164,spoof-timezone,spoof-timezone,20.0,issues created before 2021-01-01,0.0,0.0,2.33,2.33,51.16,0.0,18.6,0.0,20.93,4.65,"Browser Compatibility, Network & API, Dependency Management"
+165,sprinter-turtle,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+166,stanlee12.github.io,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+167,stats-of-the-storm,stats-of-the-storm,308.0,issues created before 2021-01-01,1.44,1.08,1.81,5.05,23.83,3.25,24.55,0.72,27.8,10.47,"Network & API, Dependency Management, Browser Compatibility"
+168,stellarguard,stellarguard,45.0,issues created before 2021-01-01,0.5,0.0,2.51,1.01,14.57,10.55,36.68,0.5,23.12,10.55,"Dependency Management, Network & API, Browser Compatibility"
+169,sticky-events,sticky-events,131.0,issues created before 2021-01-01,1.59,0.14,1.94,1.87,9.62,7.96,39.1,1.45,23.74,12.6,"Dependency Management, Network & API, Configuration & Build"
+170,stills,stills,5.0,issues created before 2021-01-01,2.33,0.0,0.0,0.0,9.3,9.3,46.51,0.0,20.93,11.63,"Dependency Management, Network & API, Configuration & Build"
+171,streetlives-api,streetlives-api,44.0,issues created before 2021-01-01,3.01,0.0,1.81,1.81,13.25,7.23,34.34,0.0,28.92,9.64,"Dependency Management, Network & API, Browser Compatibility"
+172,study-collections,study-collections,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,9.09,9.09,45.45,0.0,27.27,9.09,"Dependency Management, Network & API, Browser Compatibility"
+173,SubscriptionsWeb,SubscriptionsWeb,4.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,9.09,9.09,45.45,0.0,22.73,13.64,"Dependency Management, Network & API, Configuration & Build"
+174,surveyjs-wordpress,surveyjs-wordpress,21.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,37.93,0.0,17.24,13.79,27.59,3.45,"Browser Compatibility, Network & API, Dependency Management"
+175,svenenwouter2,svenenwouter2,116.0,issues created before 2021-01-01,2.3,0.0,0.0,2.3,87.36,0.0,0.0,0.0,1.15,6.9,"Browser Compatibility, Configuration & Build, Runtime Errors"
+176,svn-repository-provider,svn-repository-provider,660.0,issues created before 2021-01-01,3.77,2.35,0.59,0.24,13.85,0.59,54.99,0.2,10.62,12.82,"Dependency Management, Browser Compatibility, Configuration & Build"
+177,TCDI,TCDI,5.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,14.29,0.0,14.29,14.29,14.29,42.86,"Configuration & Build, Browser Compatibility, Dependency Management"
+178,ThunderSite,ThunderSite,21.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,14.29,7.14,35.71,0.0,28.57,14.29,"Dependency Management, Network & API, Browser Compatibility"
+179,trial-bot,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+180,TweetTest,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+181,unimail,unimail,84.0,issues created before 2021-01-01,0.67,0.22,1.45,0.56,9.59,8.58,42.81,0.0,27.76,8.36,"Dependency Management, Network & API, Browser Compatibility"
+182,upVotePlugin,upVotePlugin,11.0,issues created before 2021-01-01,3.85,0.0,0.0,3.85,7.69,7.69,38.46,0.0,23.08,15.38,"Dependency Management, Network & API, Configuration & Build"
+183,urdf-loaders,urdf-loaders,191.0,issues created before 2021-01-01,1.18,1.18,2.36,3.54,25.98,2.36,22.44,1.18,33.07,6.69,"Network & API, Browser Compatibility, Dependency Management"
+184,user-app,user-app,640.0,issues created before 2021-01-01,1.69,1.5,1.12,5.43,20.04,6.55,28.28,2.62,23.97,8.8,"Dependency Management, Network & API, Browser Compatibility"
+185,userscripts,userscripts,1.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Runtime Errors, Performance Issues, Async Programming"
+186,videomost,videomost,4.0,issues created before 2021-01-01,0.0,4.76,4.76,9.52,14.29,9.52,23.81,0.0,23.81,9.52,"Dependency Management, Network & API, Browser Compatibility"
+187,vue-mta-activity,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+188,vue-nutrition-label,vue-nutrition-label,5.0,issues created before 2021-01-01,0.0,0.0,5.0,5.0,10.0,5.0,25.0,10.0,25.0,15.0,"Dependency Management, Network & API, Configuration & Build"
+189,vue-signature-pad,vue-signature-pad,287.0,issues created before 2021-01-01,1.99,3.23,2.5,2.55,10.55,0.91,37.38,11.4,16.05,13.44,"Dependency Management, Network & API, Configuration & Build"
+190,wai-website-theme,wai-website-theme,25.0,issues created before 2021-01-01,0.0,0.0,0.0,5.26,31.58,0.0,0.0,15.79,36.84,10.53,"Network & API, Browser Compatibility, Framework-Specific"
+191,webpack-bugsnag-plugins,webpack-bugsnag-plugins,49.0,issues created before 2021-01-01,1.81,0.0,4.82,0.6,12.05,0.6,17.47,2.41,25.3,34.94,"Configuration & Build, Network & API, Dependency Management"
+192,webpack-compass-imagehelper,webpack-compass-imagehelper,8.0,issues created before 2021-01-01,0.0,2.2,2.2,1.1,8.79,8.79,43.96,0.0,25.27,7.69,"Dependency Management, Network & API, Browser Compatibility"
+193,webpack-mpa,webpack-mpa,580.0,issues created before 2021-01-01,1.32,2.16,1.8,1.76,11.95,2.74,39.88,0.76,14.25,23.39,"Dependency Management, Configuration & Build, Network & API"
+194,website,website,15.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,"Dependency Management, Runtime Errors, Performance Issues"
+195,website-source,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+196,wikipedia-viewer-reactjs,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+197,WME-GIS-Layers,WME-GIS-Layers,59.0,issues created before 2021-01-01,6.25,0.0,0.0,9.38,65.62,0.0,0.0,0.0,15.62,3.12,"Browser Compatibility, Network & API, State Management"
+198,yid,,0.0,issues created before 2021-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None
+199,zigbee-adapter,zigbee-adapter,272.0,issues created before 2021-01-01,2.59,0.94,0.71,6.37,23.58,2.36,14.62,0.24,36.32,12.26,"Network & API, Browser Compatibility, Dependency Management"
